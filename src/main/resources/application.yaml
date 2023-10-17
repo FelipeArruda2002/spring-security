@@ -5,4 +5,7 @@ spring:
         registration:
           google:
             client-id: 207443909750-fso4edcv1l83boefifohckl8vhifquqv.apps.googleusercontent.com
-            client-secret: colocar-chave
+            client-secret: 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
+      resourceserver:
+        jwt:
+          issuer-uri: https://accounts.google.com
