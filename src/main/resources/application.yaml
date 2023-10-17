@@ -1,0 +1,8 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          google:
+            client-id: 207443909750-fso4edcv1l83boefifohckl8vhifquqv.apps.googleusercontent.com
+            client-secret: colocar-chave
